@@ -146,6 +146,6 @@ jobs:
       - name: Report URLs
         run: |
           echo "Reports Published!"
-          echo "Playwright Built-in: https://github.com/moudgil24/Playwright2026FW/playwright-report/index.html"
-          echo "Playwright HTML Reporter: https://github.com/moudgil24/Playwright2026FW/Playwright2026FW/playwright-html-report/index.html"
-          echo "Allure: https://github.com/moudgil24/Playwright2026FW/allure-report/index.html"
+          echo "Playwright Built-in: https://moudgil24.github.io/Playwright2026FW/playwright-report/index.html"
+          echo "Playwright HTML Reporter: https://moudgil24.github.io/Playwright2026FW/Playwright2026FW/playwright-html-report/index.html"
+          echo "Allure: https://moudgil24.github.io/Playwright2026FW/allure-report/index.html"
