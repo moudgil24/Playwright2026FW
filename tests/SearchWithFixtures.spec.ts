@@ -6,7 +6,7 @@ import { ResultsPage } from '../pages/ResultsPage';
 
 let searchData =[
     {searchkey: "macbook", resultCount: 3},
-    {searchkey: "samsumg", resultCount: 2},
+    {searchkey: "samsumg", resultCount: 0},
     {searchkey: "imac", resultCount: 1},
     {searchkey: "canon", resultCount: 1},
     {searchkey: "dummy", resultCount: 0},
